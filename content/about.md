@@ -1,6 +1,7 @@
 ---
 title: "About"
-url: /about/
+type: _default
+url: /about
 date: 2021-09-19T02:07:42-04:00
 draft: false
 ---
