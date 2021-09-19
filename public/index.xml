@@ -5,6 +5,39 @@
     <link>/</link>
     <description>Recent content on Rachael S. Lee</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Sep 2021 02:09:08 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things I Consumed This Week</title>
+      <link>/posts/intro/</link>
+      <pubDate>Sun, 19 Sep 2021 02:09:08 -0400</pubDate>
+      
+      <guid>/posts/intro/</guid>
+      <description>A lot of rereading this week.
+ Still taking my time getting through Minor Feelings Research on the Hardergrat trail An episode of Dave Chang&amp;rsquo;s podcast, featuring Michelle Zauner US Open match between Djokovic and Medvedev &amp;ldquo;examining the little crescents that marked my palms for days&amp;rdquo;  </description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>/portfolio/</link>
+      <pubDate>Sun, 19 Sep 2021 02:07:56 -0400</pubDate>
+      
+      <guid>/portfolio/</guid>
+      <description>A selection of my product management work:
+Quizlet: Referrals Program&amp;nbsp;¶  Increasing user acquisition and activation via word-of-mouth channels. Built incentivized referrals feature across international markets.
+ USDR: Restorative Justice SMS System&amp;nbsp;¶  Reducing contact churn for court diversion program, enabling lower rates of recidivism. Built low-cost, cloud-enabled contact management system with text reminder capabilities
+ USDR: Arizona Dept. of Education COVID-19 Preparation&amp;nbsp;¶  Communicating resources and guidelines for school leaders and decision makers during the COVID-19 pandemic.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 19 Sep 2021 02:07:42 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is Rachael Sol Lee.
+You can contact me via email (r at solrl dot com) or elsewhere. My current time zone is ET.</description>
+    </item>
+    
   </channel>
 </rss>
