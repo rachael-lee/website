@@ -1,7 +1,5 @@
 ---
 title: "About"
-baseurl: /about
-type: single
 date: 2021-09-19T02:07:42-04:00
 ---
 

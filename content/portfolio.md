@@ -1,7 +1,5 @@
 ---
 title: "Portfolio"
-type: _default
-url: /portfolio
 date: 2021-09-19T02:07:56-04:00
 draft: false
 ---
